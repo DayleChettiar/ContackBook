@@ -1,4 +1,4 @@
-springboot-angularjs-demo
+Contact Book Application
 =========================
 
 This code is an example of how to step by step develop an application with Spring Boot and AngularJS. It includes:
@@ -14,5 +14,5 @@ This code is an example of how to step by step develop an application with Sprin
  9. Production-ready (Spring Boot Metrics, Health, Tracing, Remote Shell)
  10. Deploy the application ('fat' JAR file, WAR file)
 
-You can find the presentation slide for this code at http://www.slideshare.net/Soddino/developing-an-application-with-spring-boot-34661781
+
 
