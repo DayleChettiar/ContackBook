@@ -14,5 +14,15 @@ This code is an example of how to step by step develop an application with Sprin
  9. Production-ready (Spring Boot Metrics, Health, Tracing, Remote Shell)
  10. Deploy the application ('fat' JAR file, WAR file)
 
+Running ContactBook locally
 
+    git clone https://github.com/DayleChettiar/ContackBook.git
+    mvn tomcat7:run
 
+You can then access ContacT book here: http://localhost:8080
+
+or whichever port you have set the application to run. 
+
+Login using these credentials:
+username: admin
+password: admin123
