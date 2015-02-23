@@ -19,7 +19,7 @@ Running ContactBook locally
     git clone https://github.com/DayleChettiar/ContackBook.git
     mvn tomcat7:run
 
-You can then access ContacT book here: http://localhost:8080
+You can then access Contact Book here: http://localhost:8080
 
 or whichever port you have set the application to run. 
 
